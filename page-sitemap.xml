@@ -7,13 +7,6 @@
     </url>
     
     <url>
-        <loc>http://yoursite-url/categories/</loc>
-        <lastmod>2018-03-06T15:02:10.917Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>http://yoursite-url/tags/</loc>
         <lastmod>2018-03-06T06:12:51.832Z</lastmod>
         <changefreq>weekly</changefreq>
